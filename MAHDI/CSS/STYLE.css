@@ -1,0 +1,333 @@
+
+
+body{
+    background-image: 
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    Linear-gradient(127deg, black, black 70.71%),
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+    padding: 0;
+    margin:0;
+}
+
+.images{
+    width: 100%;
+    height: 500px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+a:hover{
+color: red;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.top {
+    width: 95%;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-right: auto ;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.barre{
+    width: 35%;
+    height: 50px;
+    margin-top: 10px;
+    margin-right: auto ;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+.titrebarre{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
+
+.logo {
+
+    width: 50px;
+    height: 50px;
+    
+}
+
+
+
+.titrevideo {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font: bold;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-left:300px;
+    margin-right: 300px;
+    
+}
+
+.video {
+    width: 100%;
+   
+    display: flex;
+    justify-content: center;
+}
+
+.TitrePage {
+    background-image: url(webdev3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 400px;
+    padding-left: 55px;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 70px;
+    
+}
+
+.coursescontact {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+    text-shadow: 5px 2px rgb(12, 11, 11);
+    font-size: 80px;
+
+}
+
+.formcourses {
+margin-left: 300px;
+margin-right: 300px;
+margin-bottom: 20px;
+display: block;
+ }
+
+.titreform {
+    display: block;
+}
+
+.cours1{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-image: url(cours\ 1.PNG) ; 
+    background-size: cover;
+}
+
+.cours2{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-image: url(cours\ 2.PNG) ; 
+    background-size: cover;
+}
+
+.cours3{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-image: url(COURS\ 3.PNG) ; 
+    background-size: cover;
+}
+.cours4{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+
+    background-image: url(COURS\ 4.PNG) ; 
+    background-size: cover;
+}
+
+.cours5{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-image: url(COURS\ 5.PNG) ; 
+    background-size: cover;
+}
+
+.cours6{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-image: url(COURS\ 6.PNG) ; 
+    background-size: cover;
+}
+
+.cours7{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-image: url(COURS\ 7.PNG) ; 
+    background-size: cover;
+}
+
+.cours8{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-image: url(COURS\ 8.PNG) ; 
+    background-size: cover;
+}
+
+.cours9{
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-image: url(COURS\ 9.PNG) ; 
+    background-size: cover;
+}
+
+.alignement{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.formulaire{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+    text-shadow: 5px 2px rgb(12, 11, 11);
+    font-size: 15px;
+    font-style: bold;
+    width: 400px !important;
+
+    
+}
+.cc{
+    width: 400px !important;
+}
+
+.centrer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.zonetext{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    width: 250px;
+    height: auto;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+.submitbutton{
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+#view1{
+    display: none;
+}
+
+#view2{
+    display: none;
+}
+
+#view3{
+    display: none;
+}
+
+#view4{
+    display: none;
+}
+
+#view5{
+    display: none;
+}
+
+#view6{
+    display: none;
+}
+
+#view7{
+    display: none;
+}
+
+#view8{
+    display: none;
+}
+
+#view9{
+    display: none;
+}
+
+.titreform{
+ color: white !important;
+}
+
